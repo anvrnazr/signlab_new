@@ -1,0 +1,26 @@
+/* BASED ON :
+ * START Fast & Agile YouTube Embed by Schoberg.net
+ */
+
+/* END Fast & Agile YouTube Embed by Schoberg.net */
+/* Modal Styles */
+#videoModalContainer{
+	  width:100%;
+	  padding: 0px;
+	  top:0;
+	  left:0;
+}
+.modal-content
+{
+	background-color: #444;
+}
+.modal-body
+{
+	padding: 0px;
+}
+.modal-footer
+{
+	padding:1em;
+	border-top: none;
+	background-color: #444;
+}
