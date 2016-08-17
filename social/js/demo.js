@@ -31,7 +31,7 @@ $.contactButtons({
     'youtube':    { class: 'youtube',      use: true, link: 'https://www.youtube.com/', icon: 'youtube', extras: 'target="_blank"', title: 'Visit YouTube Channel'  },
     'googleplus': { class: 'gplus',      use: true, link: 'https://www.youtube.com/channel/', icon: 'google-plus', extras: 'target="_blank"' , title: 'Visit on Google Plus'  },
 
-    'phone':      { class: 'phone separated',    use: true, link: '+000',  title:'' },
-    'email':      { class: 'email',    use: true, link: 'test@web.com' }
+    'phone':      { class: 'phone separated',    use: true, link: '+966112705882',  title:'' },
+    'email':      { class: 'email',    use: true, link: 'info@signlabadv.com' }
   }
 });
